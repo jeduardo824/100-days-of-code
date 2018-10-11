@@ -19,4 +19,16 @@
 
 **Thoughts**: Sometimes i had some difficult with the commits but i made some pull request's implementing the BubbleSort and QuickSort algorithms using Python. I just started doing something on GitHub so i'm having a few difficulties sometimes.
 
-**Link(s) to work**: [Hacktoberfest](https://hacktoberfest.digitalocean.com)
+**Link(s) to work**: [Hacktoberfest](https://hacktoberfest.digitalocean.com)  
+  
+### Day 3: October 10, 2018  
+  
+**Today's Progress**: I finally finished the AVD section and started de Applied Accessibility section of Responsive Web Design course on FreeCodeCamp. Besides that, I did some exercises of the Data Science with Python on edX about DataFrames with Pandas.
+
+**Thoughts**: I'm really enjoying the Responsive Web Design Certification of FreeCodeCamp and I feeling i'm doing progress. The DataScience course is a little bit delayed but I hope to put the things on the rail again and keep doing a hard work on those subjects.
+
+**Link(s) to work**:  
+
+1. [CodeCamp.org](https://learn.freecodecamp.org/)   
+2. [Python for DataScience](https://courses.edx.org/courses/course-v1:UCSanDiegoX+DSE200x+3T2018/course/) 
+  
