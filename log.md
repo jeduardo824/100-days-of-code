@@ -32,12 +32,20 @@
 1. [CodeCamp.org](https://learn.freecodecamp.org/)   
 2. [Python for DataScience](https://courses.edx.org/courses/course-v1:UCSanDiegoX+DSE200x+3T2018/course/)
 
-### Day 4 October 11 2018  
+### Day 4 October 11, 2018  
   
 **Today's Progress**: Today, I spent the day making a script with Python that checks if I'm on my university network and if I'm there, connect automatically to the portal of the university (here, we need to do login with our credentials to access the internet on the University).  
 
 **Thoughts**: Discover how I check if I'm connected to my University network was really hard. In the end, I just check if I'm connected to the IP range that the university uses. The part of access the site and do the login was very easy but I need to study a little bit more networks.  
 
-**Link(s) to work**:  [Automatic Login](https://github.com/jeduardo824/automaticLogin)   
+**Link(s) to work**:  [Automatic Login](https://github.com/jeduardo824/automaticLogin)  
+
+### Day 5 October 12, 2018  
+  
+**Today's Progress**: No much code today... I'm basically spent some hours on my Data Science course because I'm delayed on him.
+
+**Thoughts**: Today, I'm not feeling inspired. Hopefully, tomorrow I gonna wake with energy and inspiration to code during all day.  
+
+**Link(s) to work**:  [Python for DataScience](https://courses.edx.org/courses/course-v1:UCSanDiegoX+DSE200x+3T2018/course/)   
 
   
