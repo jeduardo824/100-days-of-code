@@ -46,6 +46,37 @@
 
 **Thoughts**: Today, I'm not feeling inspired. Hopefully, tomorrow I gonna wake with energy and inspiration to code during all day.  
 
-**Link(s) to work**:  [Python for DataScience](https://courses.edx.org/courses/course-v1:UCSanDiegoX+DSE200x+3T2018/course/)   
+**Link(s) to work**:  [Python for DataScience](https://courses.edx.org/courses/course-v1:UCSanDiegoX+DSE200x+3T2018/course/). 
 
+### Day 6 October 13, 2018  
   
+**Today's Progress**:. 
+
+**Thoughts**:.   
+
+**Link(s) to work**:. 
+
+### Day 7 October 14, 2018 
+  
+**Today's Progress**:. 
+
+**Thoughts**:.   
+
+**Link(s) to work**:. 
+
+### Day 8 October 15, 2018 
+  
+**Today's Progress**:. 
+
+**Thoughts**:.   
+
+**Link(s) to work**:.  
+
+### Day 9 October 16, 2018 
+  
+**Today's Progress**:. 
+
+**Thoughts**:.   
+
+**Link(s) to work**:. 
+
